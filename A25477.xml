@@ -1,0 +1,1435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the men of war (not including privateers), taken from the French since the beginning of the war, (declared the 7th of May, 1689) to the 1st of October, 1695</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25477</idno>
+            <idno type="STC">Wing A324</idno>
+            <idno type="STC">ESTC R1514</idno>
+            <idno type="EEBO-CITATION">12955173</idno>
+            <idno type="OCLC">ocm 12955173</idno>
+            <idno type="VID">96032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2:63)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the men of war (not including privateers), taken from the French since the beginning of the war, (declared the 7th of May, 1689) to the 1st of October, 1695</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>An account of the men of war and vessels of the Navy Royal of England (not including privateers) taken by the French, and otherwise lost, since the beginning of the war (declar'd the 7th of May, 1689) to the 1st of October, 1695: p. 1-3.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  History --  17th century.</term>
+               <term>France. --  Marine --  History --  17th century.</term>
+               <term>Warships --  England.</term>
+               <term>Warships --  France.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:96032:1"/>
+            <pb n="1" facs="tcp:96032:1"/>
+            <p>HAving lately met with a Paper, Publiſhed by Authority, Entituled, <hi>An Account of what Men of War and Privateers have been taken from the FRENCH, &amp;c.</hi> In which the Reader, for want of any Diſtinction made between one and the other, which ſeems induſtriouſly avoided, is left wholly in the dark, which to take for the Man of War, and which the Privateer. I have thought it neceſſary, for the ſake of Truth, and the Right Information of thoſe upon whom this Deluſion may have paſſed, to Publiſh the following LIST, Shewing the true Number of Men of War Taken by us, excluſive of the Priva<g ref="char:EOLhyphen"/>teers mentioned in that Account, which, beſides the Imperfection of its other Parts, betrays the Unskilfulneſs of the Contriver, in making the Total Ten more than the ſeveral Particulars amount to, which may be ſeen by comparing one with the other. When my Hand was thus in, I thought, that for the ſame Reaſons, it would not be unſeaſonable to give a faithful, though a melancholy Draught, of the Decreaſe of our Strength at Sea, ſince the beginning of the War<g ref="char:punc">▪</g> In both which, I have no other end, than to place this Matter in a truer Light, that the Nation may be juſtly appriſed of our Sufferings upon that Element, and that they, from whom the Redreſs of our Grievances is expected, may better be enabled to apply Remedies, when they are fairly inſtructed in the Diſeaſe.</p>
+            <p>
+               <table>
+                  <head>An <hi>ACCOUNT</hi> of the <hi>MEN</hi> of <hi>WAR</hi> (not including <hi>Priva<g ref="char:EOLhyphen"/>teers,</hi>) Taken from the <hi>FRENCH</hi> ſince the beginning of the <hi>WAR,</hi> (Declared the 7th of <hi>May, 1689,</hi>) to the 1ſt of <hi>October, 1695.</hi>
+                  </head>
+                  <row>
+                     <cell role="label" rows="2">SHIPS.</cell>
+                     <cell role="label" rows="2">Guns and Patr.</cell>
+                     <cell role="label" rows="2">Tuns</cell>
+                     <cell role="label" rows="2">Commanders.</cell>
+                     <cell role="label" cols="2">Taken, <hi>&amp;c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">How.</cell>
+                     <cell role="label">When.</cell>
+                  </row>
+                  <row>
+                     <cell>LIvely,</cell>
+                     <cell>30</cell>
+                     <cell>250</cell>
+                     <cell> </cell>
+                     <cell rows="3">Taken by the <hi>Engliſh.</hi>
+                     </cell>
+                     <cell rows="3">Between the beginning of the War, and the 25th of <hi>March,</hi> 1690.</cell>
+                  </row>
+                  <row>
+                     <cell>Play,</cell>
+                     <cell>30</cell>
+                     <cell>379</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Swift,</cell>
+                     <cell>20</cell>
+                     <cell>288</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>4 Pat.</cell>
+                     <cell cols="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>Content,</cell>
+                     <cell>70</cell>
+                     <cell>990</cell>
+                     <cell rows="2">Or there<g ref="char:EOLhyphen"/>abouts.</cell>
+                     <cell rows="2">Taken by the <hi>Engliſh.</hi>
+                     </cell>
+                     <cell rows="2">Between the 25th of <hi>March</hi> 1690, and the 1ſt of <hi>Octob.</hi> 1695.</cell>
+                  </row>
+                  <row>
+                     <cell>Trident,</cell>
+                     <cell>60</cell>
+                     <cell>699</cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total, N<hi rend="sup">o</hi>. 5.</cell>
+                     <cell role="total">214</cell>
+                     <cell role="total">2606</cell>
+                     <cell cols="3"> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>An Account of the <hi>Men</hi> of <hi>WAR</hi> and <hi>VESSELS</hi> of the <hi>Navy Royal</hi> of <hi>ENGLAND</hi> (not including <hi>Privateers) Taken</hi> by the <hi>FRENCH,</hi> and otherwiſe <hi>Loſt</hi> ſince the beginning of the <hi>War</hi> (declar'd the 7th of <hi>May, 1689,</hi>) To the 1ſt of <hi>October, 1695.</hi>
+                  </head>
+                  <row>
+                     <cell role="label" rows="2">SHIPS.</cell>
+                     <cell role="label" rows="2">Guns and Patr.</cell>
+                     <cell role="label" rows="2">Tuns</cell>
+                     <cell role="label" rows="2">Commanders.</cell>
+                     <cell role="label" cols="2">Taken, <hi>&amp;c.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">How.</cell>
+                     <cell role="label">When.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">FIred rake,</cell>
+                     <cell>12</cell>
+                     <cell>202</cell>
+                     <cell>
+                        <hi>John Voteer,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                     <cell rows="19">Between the beginning of the War, and the 25th of <hi>March,</hi> 1690.</cell>
+                  </row>
+                  <row>
+                     <cell>4 Pat.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Sampſon,</cell>
+                     <cell>12</cell>
+                     <cell>240</cell>
+                     <cell> </cell>
+                     <cell>Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k.</cell>
+                  </row>
+                  <row>
+                     <cell>Mary Frigat,</cell>
+                     <cell>12</cell>
+                     <cell>105</cell>
+                     <cell>
+                        <hi>Abr. Wiſe,</hi>
+                     </cell>
+                     <cell>Caſt away in <hi>Ireland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dragon Sloop,</cell>
+                     <cell>8</cell>
+                     <cell>57</cell>
+                     <cell>
+                        <hi>Fred. Weghman,</hi>
+                     </cell>
+                     <cell>Caſt away on the Iſle <hi>Than.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Kingfiſher,</cell>
+                     <cell>8</cell>
+                     <cell>61</cell>
+                     <cell>
+                        <hi>Robert Audley,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Emanuel,</cell>
+                     <cell>8</cell>
+                     <cell>170</cell>
+                     <cell> </cell>
+                     <cell>Sold.</cell>
+                  </row>
+                  <row>
+                     <cell>Alphen,</cell>
+                     <cell> </cell>
+                     <cell>716</cell>
+                     <cell> </cell>
+                     <cell>Broke up.</cell>
+                  </row>
+                  <row>
+                     <cell>Blade of Wheat,</cell>
+                     <cell>10</cell>
+                     <cell>150</cell>
+                     <cell> </cell>
+                     <cell>Caſt away in <hi>Plym.</hi> Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Deptford,</cell>
+                     <cell>10</cell>
+                     <cell>79</cell>
+                     <cell>
+                        <hi>Thomas Berry,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <pb n="2" facs="tcp:96032:2"/>
+                  <row>
+                     <cell>Alexander,</cell>
+                     <cell>6</cell>
+                     <cell>150</cell>
+                     <cell>
+                        <hi>Tho. Jennings,</hi>
+                     </cell>
+                     <cell>Burnt by Miſcarriage.</cell>
+                  </row>
+                  <row>
+                     <cell>Rich. &amp; Martha,</cell>
+                     <cell>10</cell>
+                     <cell>85</cell>
+                     <cell>
+                        <hi>Arth. Condore,</hi>
+                     </cell>
+                     <cell>Caſt away on the <hi>Iriſh Coaſt.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lively,</cell>
+                     <cell>30</cell>
+                     <cell>250</cell>
+                     <cell>
+                        <hi>Will. Titchburne,</hi>
+                     </cell>
+                     <cell>Re-taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Charles &amp; Hen.</cell>
+                     <cell>6</cell>
+                     <cell>120</cell>
+                     <cell>
+                        <hi>Will. Stone,</hi>
+                     </cell>
+                     <cell>Caſt away in <hi>Plym.</hi> Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Centurion,</cell>
+                     <cell>48</cell>
+                     <cell>531</cell>
+                     <cell>
+                        <hi>Baz. Beaumont,</hi>
+                     </cell>
+                     <cell>Caſt away in <hi>Plym.</hi> Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Henrietta,</cell>
+                     <cell>62</cell>
+                     <cell>763</cell>
+                     <cell>
+                        <hi>John Nevill,</hi>
+                     </cell>
+                     <cell>Caſt away in <hi>Plym.</hi> Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Portſmouth,</cell>
+                     <cell>46</cell>
+                     <cell>468</cell>
+                     <cell>
+                        <hi>George St. Lo,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Pendennis,</cell>
+                     <cell>70</cell>
+                     <cell>1036</cell>
+                     <cell>
+                        <hi>George Churchill,</hi>
+                     </cell>
+                     <cell>Caſt away near the <hi>Downs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Supply,</cell>
+                     <cell>34</cell>
+                     <cell>308</cell>
+                     <cell>
+                        <hi>Will. Harding,</hi>
+                     </cell>
+                     <cell>Caſt away at <hi>High-lake.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dartmouth,</cell>
+                     <cell>32</cell>
+                     <cell>265</cell>
+                     <cell>
+                        <hi>Edw. Pottinger,</hi>
+                     </cell>
+                     <cell>Caſt away near <hi>Scotland.</hi>
+                     </cell>
+                     <cell rows="12">Between the 25th of <hi>March,</hi> 1690, and the 25th of <hi>March,</hi> 1691.</cell>
+                  </row>
+                  <row>
+                     <cell>St. David,</cell>
+                     <cell>54</cell>
+                     <cell>638</cell>
+                     <cell>
+                        <hi>John Graydon,</hi>
+                     </cell>
+                     <cell>Caſt away in <hi>Portſm.</hi> Harb.</cell>
+                  </row>
+                  <row>
+                     <cell>Dunbarton,</cell>
+                     <cell>18</cell>
+                     <cell>191</cell>
+                     <cell>
+                        <hi>Simon Row,</hi>
+                     </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Drake,</cell>
+                     <cell>16</cell>
+                     <cell>151</cell>
+                     <cell>
+                        <hi>Tho. Spragg,</hi>
+                     </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Bredah,</cell>
+                     <cell>70</cell>
+                     <cell>1018</cell>
+                     <cell>
+                        <hi>Math. Tennant,</hi>
+                     </cell>
+                     <cell>Blown up in Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Hopewel,</cell>
+                     <cell>8</cell>
+                     <cell>253</cell>
+                     <cell>
+                        <hi>Tho. Warren,</hi>
+                     </cell>
+                     <cell>Burnt by Miſcarriage.</cell>
+                  </row>
+                  <row>
+                     <cell>John of Dublin,</cell>
+                     <cell>6</cell>
+                     <cell>90</cell>
+                     <cell> </cell>
+                     <cell>Sold.</cell>
+                  </row>
+                  <row>
+                     <cell>Victory,</cell>
+                     <cell>82</cell>
+                     <cell>1029</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Eliz. and Sarah,</cell>
+                     <cell>10</cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Anne,</cell>
+                     <cell>70</cell>
+                     <cell>1039</cell>
+                     <cell>
+                        <hi>John Tyrrell,</hi>
+                     </cell>
+                     <cell>Burnt to avoid the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Stadthouſe,</cell>
+                     <cell> </cell>
+                     <cell>440</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Dreadnought,</cell>
+                     <cell>62</cell>
+                     <cell>735</cell>
+                     <cell>
+                        <hi>Robert Wilmot,</hi>
+                     </cell>
+                     <cell>Caſt away near the <hi>Downs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Coronation,</cell>
+                     <cell>90</cell>
+                     <cell>1366</cell>
+                     <cell>
+                        <hi>Charles Skelton,</hi>
+                     </cell>
+                     <cell>Caſt away near <hi>Plymouth.</hi>
+                     </cell>
+                     <cell rows="9">Between the 25th of <hi>March,</hi> 1691, and the 25th of <hi>March,</hi> 1692.</cell>
+                  </row>
+                  <row>
+                     <cell>Jerſey,</cell>
+                     <cell>48</cell>
+                     <cell>558</cell>
+                     <cell>
+                        <hi>John Bumſtead,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Conſt. Warwick,</cell>
+                     <cell>28</cell>
+                     <cell>374</cell>
+                     <cell>
+                        <hi>Ja<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es Moody,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Swallow,</cell>
+                     <cell>48</cell>
+                     <cell>559</cell>
+                     <cell>
+                        <hi>Will. Bridges,</hi>
+                     </cell>
+                     <cell>Caſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> going to <hi>Kingſale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Harwich,</cell>
+                     <cell>70</cell>
+                     <cell>987</cell>
+                     <cell>
+                        <hi>Tho. Robinſon,</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> in <hi>Plym.</hi> Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Mary Roſe,</cell>
+                     <cell>42</cell>
+                     <cell>555</cell>
+                     <cell>
+                        <hi>John Bromly,</hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Exeter,</cell>
+                     <cell>70</cell>
+                     <cell>1151</cell>
+                     <cell>
+                        <hi>George M<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> up in Harbor.</cell>
+                  </row>
+                  <row>
+                     <cell>Talbot,</cell>
+                     <cell>10</cell>
+                     <cell>94</cell>
+                     <cell>
+                        <hi>Charles S<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                              <desc>••••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Happy Return,</cell>
+                     <cell>54</cell>
+                     <cell>623</cell>
+                     <cell>
+                        <hi>Peter Pi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Phoenix,</cell>
+                     <cell>42</cell>
+                     <cell>368</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rnt to avoid the <hi>French.</hi>
+                     </cell>
+                     <cell rows="23">Between the 25th of <hi>March,</hi> 1692, and the 25th of <hi>March,</hi> 1693.</cell>
+                  </row>
+                  <row>
+                     <cell>Spy,</cell>
+                     <cell>8</cell>
+                     <cell>254</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Burnt by Miſcarriage.</cell>
+                  </row>
+                  <row>
+                     <cell>Ruzee,</cell>
+                     <cell>10</cell>
+                     <cell>13<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Burnt by Miſcarriage.</cell>
+                  </row>
+                  <row>
+                     <cell>Scarborough,</cell>
+                     <cell>10</cell>
+                     <cell>94</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Nathaniel,</cell>
+                     <cell>4</cell>
+                     <cell>140</cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </cell>
+                     <cell>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſt</cell>
+                  </row>
+                  <row>
+                     <cell>Mermaid,</cell>
+                     <cell>8</cell>
+                     <cell>174</cell>
+                     <cell>
+                        <hi>Edward <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ig<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                     <cell>Burnt by Miſcarriage.</cell>
+                  </row>
+                  <row>
+                     <cell>Norwich,</cell>
+                     <cell>42</cell>
+                     <cell>618</cell>
+                     <cell>
+                        <hi>Richard Pugh,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>Speedwell,</cell>
+                     <cell>8</cell>
+                     <cell>127</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Crown,</cell>
+                     <cell>26</cell>
+                     <cell>223</cell>
+                     <cell>
+                        <hi>Will. Titchburne,</hi>
+                     </cell>
+                     <cell>Caſt away near the <hi>Start.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Roe-buck,</cell>
+                     <cell>6</cell>
+                     <cell>64</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Portland,</cell>
+                     <cell>50</cell>
+                     <cell>588</cell>
+                     <cell>
+                        <hi>Thomas Ley,</hi>
+                     </cell>
+                     <cell>Burnt to avoid the <hi>French,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Swan,</cell>
+                     <cell>28</cell>
+                     <cell>305</cell>
+                     <cell>
+                        <hi>Edward Nevill,</hi>
+                     </cell>
+                     <cell>Caſt away at <hi>Jamaica.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hart,</cell>
+                     <cell>10</cell>
+                     <cell>94</cell>
+                     <cell>
+                        <hi>David Condon,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Half-Moon,</cell>
+                     <cell>8</cell>
+                     <cell>214</cell>
+                     <cell>
+                        <hi>John Knapp,</hi>
+                     </cell>
+                     <cell rows="10">Burnt at <hi>C. L' Hogue.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tho. &amp; Eliza.</cell>
+                     <cell>10</cell>
+                     <cell>200</cell>
+                     <cell>
+                        <hi>Tho. Littleton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Blaze,</cell>
+                     <cell>8</cell>
+                     <cell>259</cell>
+                     <cell>
+                        <hi>Tho. Heath,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hound,</cell>
+                     <cell>8</cell>
+                     <cell>257</cell>
+                     <cell>
+                        <hi>Tho. Fowles,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Phaeton,</cell>
+                     <cell>8</cell>
+                     <cell>263</cell>
+                     <cell>
+                        <hi>Robert Hancock,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Cadi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Merchant,</cell>
+                     <cell>12</cell>
+                     <cell>280</cell>
+                     <cell>
+                        <hi>Robert Winn,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Fox,</cell>
+                     <cell>8</cell>
+                     <cell>263</cell>
+                     <cell>
+                        <hi>T. Killingworth,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Extravagant,</cell>
+                     <cell>10</cell>
+                     <cell>276</cell>
+                     <cell>
+                        <hi>Fleetw. Emms.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hopewell,</cell>
+                     <cell>8</cell>
+                     <cell>260</cell>
+                     <cell>
+                        <hi>Will. Jumper,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Woolf,</cell>
+                     <cell>8</cell>
+                     <cell>253</cell>
+                     <cell>
+                        <hi>Ja. Greenway,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Harp,</cell>
+                     <cell>10</cell>
+                     <cell>95</cell>
+                     <cell>
+                        <hi>John Ward,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Diamond,</cell>
+                     <cell>42</cell>
+                     <cell>550</cell>
+                     <cell>
+                        <hi>Henry Wickham,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lucas Gally,</cell>
+                     <cell>16</cell>
+                     <cell>120</cell>
+                     <cell>
+                        <hi>John Hardham,</hi>
+                     </cell>
+                     <cell>Caſt away on the <hi>Dutch</hi> C,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Serpent,</cell>
+                     <cell>12</cell>
+                     <cell>260</cell>
+                     <cell>
+                        <hi>Abr. Colfe,</hi>
+                     </cell>
+                     <cell>Caſt away,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6 Pat.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pembroke,</cell>
+                     <cell>32</cell>
+                     <cell>356</cell>
+                     <cell>
+                        <hi>Roger Belwood,</hi>
+                     </cell>
+                     <cell>Deſtroy'd by the <hi>French,</hi>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Young Sprag,</cell>
+                     <cell>10</cell>
+                     <cell>80</cell>
+                     <cell> </cell>
+                     <cell>Caſt,</cell>
+                     <cell> </cell>
+                  </row>
+                  <pb n="3" facs="tcp:96032:3"/>
+                  <row>
+                     <cell>Tartan,</cell>
+                     <cell>10</cell>
+                     <cell>49</cell>
+                     <cell>
+                        <hi>John Tankard,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                     <cell rows="19">Between the 25th of <hi>March,</hi> 1693, and the 25th of <hi>March,</hi> 1694.</cell>
+                  </row>
+                  <row>
+                     <cell>Fanfan,</cell>
+                     <cell>4</cell>
+                     <cell>33</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Windſor Caſtle,</cell>
+                     <cell>90</cell>
+                     <cell>1462</cell>
+                     <cell>
+                        <hi>Daniel Jones,</hi>
+                     </cell>
+                     <cell>Caſt away near the <hi>Downs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sun,</cell>
+                     <cell>24</cell>
+                     <cell>169</cell>
+                     <cell>
+                        <hi>Fran. Manley,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Antelope,</cell>
+                     <cell>48</cell>
+                     <cell>576</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Pelican,</cell>
+                     <cell>8</cell>
+                     <cell>180</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Warrington,</cell>
+                     <cell>30</cell>
+                     <cell>200</cell>
+                     <cell>
+                        <hi>John Oak,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Suſſex,</cell>
+                     <cell>80</cell>
+                     <cell>1203</cell>
+                     <cell>Sir <hi>F. W.</hi> Ad. <hi>Cha. Haw.</hi> C.</cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>Cambridge,</cell>
+                     <cell>70</cell>
+                     <cell>941</cell>
+                     <cell>
+                        <hi>John Ward,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>Lumly-Caſtle,</cell>
+                     <cell>56</cell>
+                     <cell>738</cell>
+                     <cell>
+                        <hi>George Miſter,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>Mary,</cell>
+                     <cell>6</cell>
+                     <cell>90</cell>
+                     <cell>
+                        <hi>John Bateman,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>Eaglet,</cell>
+                     <cell>10</cell>
+                     <cell>95</cell>
+                     <cell>
+                        <hi>David Greenhil,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Guernſey,</cell>
+                     <cell>30</cell>
+                     <cell>255</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Rich. and John,</cell>
+                     <cell>10</cell>
+                     <cell>160</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Cignet,</cell>
+                     <cell>8</cell>
+                     <cell>160</cell>
+                     <cell>
+                        <hi>John Perry,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Veſuvius,</cell>
+                     <cell>8</cell>
+                     <cell>256</cell>
+                     <cell>
+                        <hi>John Guy,</hi>
+                     </cell>
+                     <cell>Burnt at St. <hi>Malo's.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Milford,</cell>
+                     <cell>32</cell>
+                     <cell>354</cell>
+                     <cell>
+                        <hi>Roger Vaughan,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Mordant,</cell>
+                     <cell>40</cell>
+                     <cell>567</cell>
+                     <cell>
+                        <hi>Fra. Maynard,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>St. Albans,</cell>
+                     <cell>50</cell>
+                     <cell>590</cell>
+                     <cell>
+                        <hi>Tho. Guillam,</hi>
+                     </cell>
+                     <cell>Caſt away at <hi>Kingſale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Talbot,</cell>
+                     <cell>10</cell>
+                     <cell>94</cell>
+                     <cell>
+                        <hi>Anthony Tollet,</hi>
+                     </cell>
+                     <cell>Caſt away in <hi>Ireland.</hi>
+                     </cell>
+                     <cell rows="23">Between the 25th of <hi>March,</hi> 1694, and the 25th of <hi>March,</hi> 1695.</cell>
+                  </row>
+                  <row>
+                     <cell>Goodwin,</cell>
+                     <cell>6</cell>
+                     <cell>74</cell>
+                     <cell>
+                        <hi>John Martin,</hi>
+                     </cell>
+                     <cell>Deſtroy'd by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Eagle,</cell>
+                     <cell>12</cell>
+                     <cell>305</cell>
+                     <cell>
+                        <hi>William Faceby,</hi>
+                     </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Faulcon,</cell>
+                     <cell>36</cell>
+                     <cell>367</cell>
+                     <cell>
+                        <hi>Thomas Bryan,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Abr. Offering,</cell>
+                     <cell> </cell>
+                     <cell>63</cell>
+                     <cell>
+                        <hi>Edward Cole,</hi>
+                     </cell>
+                     <cell>Miſcarried at <hi>Dunkirk.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>St. Nicholas,</cell>
+                     <cell> </cell>
+                     <cell>107</cell>
+                     <cell>
+                        <hi>Robert Dunbar,</hi>
+                     </cell>
+                     <cell>Miſcarried at <hi>Deipe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Dartmouth,</cell>
+                     <cell>48</cell>
+                     <cell>603</cell>
+                     <cell>
+                        <hi>Roger Vaughan,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Scarborough,</cell>
+                     <cell>32</cell>
+                     <cell>374</cell>
+                     <cell>
+                        <hi>VV. Killingworth,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>England Frigat,</cell>
+                     <cell>42</cell>
+                     <cell>400</cell>
+                     <cell>
+                        <hi>William Cooper,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Conception,</cell>
+                     <cell>32</cell>
+                     <cell>374</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Arms of Horn,</cell>
+                     <cell> </cell>
+                     <cell>516</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Drake,</cell>
+                     <cell>24</cell>
+                     <cell>253</cell>
+                     <cell>
+                        <hi>John Stapleton,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell>Granada,</cell>
+                     <cell>12</cell>
+                     <cell>279</cell>
+                     <cell>
+                        <hi>Tho. Wiltſhire,</hi>
+                     </cell>
+                     <cell>Deſtroy'd by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6 pat.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Pearl,</cell>
+                     <cell>12</cell>
+                     <cell>195</cell>
+                     <cell>
+                        <hi>Fran. Dove,</hi>
+                     </cell>
+                     <cell>Caſt away.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6 pat.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Bazin Gally,</cell>
+                     <cell>18</cell>
+                     <cell>121</cell>
+                     <cell>
+                        <hi>Jonath. Poynton,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Wild,</cell>
+                     <cell>12</cell>
+                     <cell>69</cell>
+                     <cell>
+                        <hi>Thomas Smith,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Nonſuch,</cell>
+                     <cell>36</cell>
+                     <cell>345</cell>
+                     <cell>
+                        <hi>Thomas Taylor,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Poſt-Boy,</cell>
+                     <cell>4</cell>
+                     <cell>73</cell>
+                     <cell>
+                        <hi>Anth. Phillips,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>6 pat.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>James Gally,</cell>
+                     <cell>32</cell>
+                     <cell>436</cell>
+                     <cell>
+                        <hi>Joſ. Soanes,</hi>
+                     </cell>
+                     <cell>Caſt away near the <hi>Downs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. and Mary,</cell>
+                     <cell> </cell>
+                     <cell>22</cell>
+                     <cell>
+                        <hi>Tho. Robinſon,</hi>
+                     </cell>
+                     <cell>Miſcarried at <hi>Dunkirk.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Tow Engine,</cell>
+                     <cell> </cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                     <cell rows="16">Between the 25th of <hi>March,</hi> 1695, and the firſt of <hi>October,</hi> 1695.</cell>
+                  </row>
+                  <row>
+                     <cell>Trumpet,</cell>
+                     <cell> </cell>
+                     <cell>63</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Betty,</cell>
+                     <cell>34</cell>
+                     <cell>332</cell>
+                     <cell>
+                        <hi>Henry Papwell,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Adventure,</cell>
+                     <cell>8</cell>
+                     <cell>24</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Hope,</cell>
+                     <cell>70</cell>
+                     <cell>1058</cell>
+                     <cell>
+                        <hi>Henry Robinſon,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Crown'd Herrin.</cell>
+                     <cell> </cell>
+                     <cell>68</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>Sheerneſs,</cell>
+                     <cell> </cell>
+                     <cell>18</cell>
+                     <cell> </cell>
+                     <cell>Sunk.</cell>
+                  </row>
+                  <row>
+                     <cell>St. Martin,</cell>
+                     <cell>24</cell>
+                     <cell>177</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Faulcon,</cell>
+                     <cell>24</cell>
+                     <cell>243</cell>
+                     <cell>
+                        <hi>Hen. Middleton,</hi>
+                     </cell>
+                     <cell>Taken by the <hi>French.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Swift,</cell>
+                     <cell>20</cell>
+                     <cell>288</cell>
+                     <cell> </cell>
+                     <cell>Caſt.</cell>
+                  </row>
+                  <row>
+                     <cell>Dreadful,</cell>
+                     <cell>8</cell>
+                     <cell>259</cell>
+                     <cell>
+                        <hi>John Carleton,</hi>
+                     </cell>
+                     <cell>Burnt at St. <hi>Mallo's.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Charles,</cell>
+                     <cell>8</cell>
+                     <cell>276</cell>
+                     <cell>
+                        <hi>Thomas Durly,</hi>
+                     </cell>
+                     <cell>Burnt at St. <hi>Mallo's.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Will. and Elizab.</cell>
+                     <cell> </cell>
+                     <cell>46</cell>
+                     <cell>
+                        <hi>VVill. Carleton,</hi>
+                     </cell>
+                     <cell rows="4">Miſcarried at <hi>Dunkirk,</hi> under the Direction of Mr. <hi>Meiſters</hi> the Ingineer, and one of the Principal Officers of the Ordi<g ref="char:EOLhyphen"/>nance.</cell>
+                  </row>
+                  <row>
+                     <cell>May Flower,</cell>
+                     <cell> </cell>
+                     <cell>20</cell>
+                     <cell>
+                        <hi>John Dixon,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Ephraim,</cell>
+                     <cell> </cell>
+                     <cell>32</cell>
+                     <cell>
+                        <hi>John Carleton,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Happy Return.</cell>
+                     <cell> </cell>
+                     <cell>84</cell>
+                     <cell>
+                        <hi>Robert Iſaack.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell cols="2">
+                        <hi>Number.</hi>
+                     </cell>
+                     <cell> </cell>
+                     <cell>
+                        <hi>Guns.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Tuns.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total">Total</cell>
+                     <cell role="total" cols="3">123</cell>
+                     <cell role="total">2948</cell>
+                     <cell role="total">41043</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="4" facs="tcp:96032:4"/>
+            <p>It were much to be wiſhed, That this Loſs which the Publick has received, were attended with a leſs grievous one to the Merchants, than 'tis to be fear<g ref="char:EOLhyphen"/>ed has come to their ſhare; for it is generally allowed that the number of their Ships and Veſſels miſcarried ſince the War, does not fall ſhort of Four Thou<g ref="char:EOLhyphen"/>ſand: The Riches of which, had I the Means of computing, I ſhould chooſe much rather to conceal than publiſh, to avoid the renewing of our own Mor<g ref="char:EOLhyphen"/>tification, or the Satisfaction of our Neighbours: And for the ſame Reaſons, I heartily wiſh it were only known to our <hi>East-India Company,</hi> how many Mil<g ref="char:EOLhyphen"/>lions of Pounds Sterling their Ships which have been Loſt within that time, would have yielded at Market here, had our Care and Skill, in the Manage<g ref="char:EOLhyphen"/>ment of the Naval Strength of <hi>England,</hi> for the Protection of Trade, born any Proportion to the Liberality of our Parliaments in giving Mony for that Pur<g ref="char:EOLhyphen"/>poſe, amounting to a Sum five times greater than hath ever been given before in any like ſpace of Time, Notwithſtanding our Conjunction with the whole Sea-Force of <hi>Spain</hi> and <hi>Holland,</hi> as is pretended.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
